@@ -23,34 +23,30 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Developing Myo-Guide, a web platform for automating muscle disease diagnosis using MRI.
+    - Developing [HIPO](https://github.com/Jose-Verdu-Diaz/hipo), a tool for managing, processing and analysing data from the [Hyperion Imaging System](https://www.standardbio.com/products-services/instruments/hyperion).
+    - Developing software tools for managing and analysing clinical trial data from the [Adult SMA Reach](https://adultsmareach.co.uk/).
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: John Walton Muscle Disease Research Centre
+    url: "https://newcastle-muscle.org/"
+    location: Newcastle upon Tyne
+    #overview: Lorem Ipsum
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Guest Researcher
+    start: Feb 2021
+    end: Jun 2021
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developing [sa_poly2pixel](https://github.com/Jose-Verdu-Diaz/sa_poly2pixel), a tool for processing annotations from [SuperAnnotate](https://www.superannotate.com/).
 
 - company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+    name: Hospital de la Santa Creu i Sant Pau
+    url: "https://www.santpau.cat"
+    location: Barcelona
+    #overview: Lorem Ipsum
   positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
+  - designation: Guest Researcher
+    start: May 2018
+    end: Nov 2019
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Developing [Myo-Guide v1](https://doi.org/10.1212/WNL.0000000000009068), an AI model for diagnosing Neuromuscular diseases using MRI.
